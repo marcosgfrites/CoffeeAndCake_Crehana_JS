@@ -1,2 +1,2 @@
 # CoffeeAndCake_Crehana_JS
-Proyecto desarrollado en clases del curso Fundamentos de JavaScript de la plataforma Crehana
+Project developed in classes of the JavaScript Fundamentals course of the Crehana platform.
